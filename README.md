@@ -1,3 +1,16 @@
+Website Link -> 
+
+https://linkedin-clone-97b67.web.app/
+
+Fill in the details and click Register Now.
+
+![image](https://user-images.githubusercontent.com/96788948/218794858-4c040181-1826-4165-93ec-ccc7df5cb396.png)
+
+Click on Start Post and type the Prompt. Press Enter to render the post and see an amzing animation.
+
+![image](https://user-images.githubusercontent.com/96788948/218795588-de7d168c-0c31-4530-a2c6-cb2c5bbf1056.png)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
